@@ -8,4 +8,4 @@ The Center will be strategically tied to research and educational mission to adv
 
 [visit our homepage](https://ic3.center.ufl.edu)
 
-<img src="/profile/assets/logo.png" alt="INTELLIGENT CRITICAL CARE CENTER" width="300" />
+<img src="/profile/assets/IC3-NEW-blue-and-orange.png" alt="INTELLIGENT CRITICAL CARE CENTER" width="200" />
