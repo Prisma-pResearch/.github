@@ -6,6 +6,6 @@
 
 The Center will be strategically tied to research and educational mission to advance the UF AI initiative. 
 
-[visit our homepage](ic3.center.ufl.edu)
+[visit our homepage](https://ic3.center.ufl.edu)
 
-![](<assets/IC3-NEW-blue-and-orange.png>)
+![](</profile/assets/IC3-NEW-blue-and-orange.png>)
